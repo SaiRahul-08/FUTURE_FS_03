@@ -24,22 +24,6 @@ A modern fitness club business website developed using HTML, CSS, and JavaScript
 - CSS3
 - JavaScript
 
-## Folder Structure
-
-Business_website
-
-├── css
-│ └── style.css
-
-├── js
-│ └── script.js
-
-├── images
-
-├── index.html
-
-└── README.md
-
 ## Run Project
 
 Open `index.html` in your browser.
